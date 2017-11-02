@@ -18,18 +18,15 @@ career:
    company: Earl Center for Learning and Innovation @ Wheelock College
    location: Boston, MA, USA
    dates: October 2017 - Present
-   summary: Responsible for provided document preparation and prodcution services as well as circulating properties for the students, faculty and staff of Wheelock.
+   summary: Responsible for providing document preparation and prodcution services as well as circulating properties for the students, faculty and staff of Wheelock.
    accomplishments:
-    - accomplishment: Mikey is the most agile of all his brothers; his training as a ninja helped to balance and improve this, but his skills in skateboarding and dancing also gives Mikey an edge that will often shock his brothers. Mikey is an extremely good fighter. He's got a great knowledge with ninjutsu, which is why he is a good fighter. He may have the most raw talent of the four, but he does not seem to have the skill to develop it.
-    - accomplishment: He refers to himself as the king of pranks. Since he the most funniest of his brothers and he hasn't shown to be wrong since he was able to show his pranking skills against his brothers like water balloons as he wants to prank them all and he was able to use his prank of water ballon to use against the tank of the truck.
- - position: Public Service Assistnat / Technology Services Manager
-   company: Earl Center for Learning and Innovation @ Wheelock College
-   location: Boston, MA, USA
-   dates: October 2017 - Present
-   summary: Responsible for provided document preparation and prodcution services as well as circulating properties for the students, faculty and staff of Wheelock.
-   accomplishments:
-    - accomplishment: Mikey is the most agile of all his brothers; his training as a ninja helped to balance and improve this, but his skills in skateboarding and dancing also gives Mikey an edge that will often shock his brothers. Mikey is an extremely good fighter. He's got a great knowledge with ninjutsu, which is why he is a good fighter. He may have the most raw talent of the four, but he does not seem to have the skill to develop it.
-    - accomplishment: He refers to himself as the king of pranks. Since he the most funniest of his brothers and he hasn't shown to be wrong since he was able to show his pranking skills against his brothers like water balloons as he wants to prank them all and he was able to use his prank of water ballon to use against the tank of the truck.
+    - accomplishment: Designed and Implemented a Mobile Device Management (MDM) strategy to manage and track MacBooks and iPads.
+    - accomplishment: Solidify and Formalize a center-based IT managment infrastructure to with the goal of alieviating some of the load of the Institutional IT department.
+ - position: Client Support Technician
+   company: Auxilium Virtutis, Inc.
+   location: North Chelmsford, MA
+   dates: July 2015 - Present
+   summary: Responsible for providing support to small business and medical office clients via remote acces or on-site visits.
 
 technicalSkills:
   backend:
