@@ -1,0 +1,61 @@
+person:
+  name: Phill Fernandes
+  depiction: headshot.png
+  profession: Teenage Mutant Ninja Turtle
+  location: Boston, MA
+  citizenship: USA
+  email: phill@creativetech.me
+  site: creativetech.me
+  phone: +1 (617) 657-4823
+  github: /phillf
+  stackoverflow:
+
+career:
+ - position: Public Service Assistant / Technology Services Manager
+   company: Earl Center for Learning and Innovation @ Wheelock College
+   location: Boston, MA
+   dates: October 2016 - Present
+   summary: Providing services ranging from technical support to document preparation and production the the students, faculty, and staf of Wheelock College.
+   accomplishments:
+    - accomplishment: Deploy a Mobile Device Management (MDM) solution to manage and track iPads and MacBooks.
+    - accomplishment: Formalize and solidify a Technology Services infrastructure within the deparment.
+
+technicalSkills:
+  list:
+    - tr: "Impulsive, creative and very social"
+    - tr: "Heart and soul of the Ninja Turtles"
+    - tr: "Master of the Kusarigama and nunchucks"
+    - tr: "Labeled as 'The Wild One' and 'The Party Dude'"
+    - tr: "First of the turtles to taste pizza"
+    - tr: "Very proud of his talent for naming thing"
+  frontend:
+   - name: Windows Server/Active Directory
+     level: 80
+   - name: Linux
+     level: 80
+   - name: macOS
+     level: 80
+ backend:
+   - name: PHP
+     level: 40
+   - name: JS
+     level: 40
+  other:
+   - name: Shadow Puppet Skill
+     level: 90
+   - name: Teaching
+     level: 100
+
+sideProjects:
+  - name: OpenCAD (PHP)
+    description: An OpenSource Computer Aided Dispatch, Mobile Data Terminal, and Persona Management solutions for FiveM communities.
+    link: https://www.OpenCAD.io/
+    type: github
+    langs: HTML/PHP/CSS/JS/MySQL
+
+education:
+  - name: Porter & Chester Institute
+    degree: Computer nad Networking Technology
+    location: Canton, MA, USA
+    dates: 2011-2012
+    link: https://www.PorterChester.com/
