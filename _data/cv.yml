@@ -1,18 +1,18 @@
-url: http://streetturtle.github.io
-projectUrl: jekyl-cv-crafter
+url: https://phillf.github.io
+projectUrl:phillf.github.io
 
 # leave blank fields which you don't want to fill/be displayed
 person:
-  name: Michelangelo
+  name: Phill Fernandes
   depiction: headshot.png
   profession: Teenage Mutant Ninja Turtle
-  location: sewers of New York City
+  location: Boston, MA
   citizenship: USA
-  email: mikey@tmnt.com
-  site: http://mikeystmnt.com
-  phone: +8-tmnt-mickey
-  github: /streetturtle
-  stackoverflow: /streetturtle
+  email: phill@creativetech.me
+  site: creativetech.me
+  phone: +1 (617) 657-4823
+  github: /phillf
+  stackoverflow:
 
 career:
  - position: Foot Clan Antagonist
@@ -41,7 +41,7 @@ technicalSkills:
     - tr: "First of the turtles to taste pizza"
     - tr: "Very proud of his talent for naming thing"
   backend:
-   - name: Ninjutsu
+   - name: JS
      level: 90
    - name: Kusarigama
      level: 80
