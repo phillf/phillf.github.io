@@ -1,18 +1,17 @@
-url: http://streetturtle.github.io
-projectUrl: jekyl-cv-crafter
+url: https://www.creativetech.me/
 
 # leave blank fields which you don't want to fill/be displayed
 person:
-  name: Michelangelo
-  depiction: headshot.png
-  profession: Teenage Mutant Ninja Turtle
-  location: sewers of New York City
+  name: Phill Fernandes
+  depiction:
+  profession: Developer and IT Technician
+  location: Boston, MA
   citizenship: USA
-  email: mikey@tmnt.com
-  site: http://mikeystmnt.com
-  phone: +8-tmnt-mickey
-  github: /streetturtle
-  stackoverflow: /streetturtle
+  email: phill@creativetech.me
+  site: https://www.CreativeTech.me
+  phone: +1 (617) 657-4823
+  github: /phillf
+  stackoverflow: 
 
 career:
  - position: Foot Clan Antagonist
