@@ -32,19 +32,16 @@ technicalSkills:
     - tr: "First of the turtles to taste pizza"
     - tr: "Very proud of his talent for naming thing"
   backend:
-   - name: Ninjutsu
-     level: 90
-   - name: Kusarigama
-     level: 80
+   - name: PHP
+     level: 60
+   - name: JS
+     level: 30
+   - name: HTML
+     level: 100
   frontend:
-   - name: Cooking Skills
-     level: 80
-   - name: Pranks
-     level: 90
-  other:
-   - name: Shadow Puppet Skill
-     level: 90
-   - name: Teaching
+   - name: Customer Service
+     level: 100
+   - name: Technical Support
      level: 100
 
 sideProjects:
