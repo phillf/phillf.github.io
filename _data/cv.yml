@@ -43,23 +43,22 @@ technicalSkills:
      level: 100
    - name: Technical Support
      level: 100
+  other:
+    - name: Active Directory/DNS
+      level: 75
+    - name: Mobile Device Management
+    - level: 75
 
 sideProjects:
-  - name: jekyll-clean-dark
-    description: Theme for Jekyll - static site generator. After creating theme for my blog I shared it on github.
-    link: https://github.com/streetturtle/jekyll-clean-dark
+  - name: OpenCAD (PHP)
+    description: An OpenSource Computer Aided Dispatch, Mobile Data Terminal, and Persona Management solutions for FiveM communities.
+    link: https://github.com/StormlightTech/OpenCAD-php
     type: github
-    langs: HTML/CSS/Bootstrap
-
-  - name: number-writing-trainer
-    description: Application which helps with learning foreign numerals. Was created to help with learning how to write french numbers as well as to practice AngularJS.
-    link: http://pavelmakhov.com/number-writing-trainer/#/
-    type: site
-    langs: AngularJS/HTML/CSS/Bootstrap
+    langs: HTML/CSS/PHP/JS
 
 education:
-  - name: Master Splinter Academy
-    degree: Mutant Red-Eared Slider
-    location: sewers of New York City
-    dates: 2007 – 2012
-    link: http://tmnt2012series.wikia.com/
+  - name: Porter and Chester Institute
+    degree: Computer and Networking Technology
+    location: Canton, MA, USA
+    dates: 2011-2012
+    link: https://www.PorterChester.com/
