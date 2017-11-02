@@ -32,14 +32,14 @@ technicalSkills:
     - tr: "Labeled as 'The Wild One' and 'The Party Dude'"
     - tr: "First of the turtles to taste pizza"
     - tr: "Very proud of his talent for naming thing"
-  Infomation Technology:
+  infomation-technology:
    - name: Windows Server/Active Directory
      level: 80
    - name: Linux
      level: 80
    - name: macOS
      level: 80
-  Development:
+  development:
    - name: PHP
      level: 40
    - name: JS
