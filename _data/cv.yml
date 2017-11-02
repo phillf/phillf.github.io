@@ -48,7 +48,7 @@ technicalSkills:
     - name: Active Directory/DNS
       level: 75
     - name: Mobile Device Management
-    - level: 75
+      level: 75
 
 sideProjects:
   - name: OpenCAD (PHP)
