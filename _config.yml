@@ -2,7 +2,7 @@
 title: CreativeTech
 description: A personal blog of Phill Fernandes
 #baseurl: "/particle" # the subpath of your site, e.g. /blog
-url: "https://www.creativetech.me/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: https://www.creativetech.me/ # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Anon Developer
