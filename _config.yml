@@ -1,17 +1,17 @@
 # Site settings
 title: CreativeTech
-description: A personal blog of Phill Fernandes
+description: The personal blog of Phill Fernandes
 #baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: https://www.creativetech.me # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Phill Fernandes
-user_description: 
-user_title: Developer
+user_description:
+user_title: Technologist & Developer
 email: Phill@Creativetech.me
 twitter_username: TheRealWymoree
 github_username:  PhillF
-gplus_username:  
+gplus_username:
 
 # Google-analytics
 google-analytics:
